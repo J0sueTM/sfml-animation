@@ -33,4 +33,4 @@ adicione essa classe no seu projeto, e utilize as seguintes funções
 
 */
 
-///////////////////////////////////////////////////////////////////////
+Obs: This was my first repository, never expected to get it into vault code haha
