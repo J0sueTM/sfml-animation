@@ -1,4 +1,4 @@
-#sfml-animation
+# sfml-animation
 
 sfml-animation is a simple C++ header for SFML sprite animation
 
