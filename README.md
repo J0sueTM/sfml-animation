@@ -1,6 +1,6 @@
 # sfml-animation
 
-sfml-animation is a simple C++ header for SFML sprite animation
+sfml-animation is a simple C++ header/class for SFML sprite animation
 
 A sf::Clock counter object must be initialized before using deltaTime
 
